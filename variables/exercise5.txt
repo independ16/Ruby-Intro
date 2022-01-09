@@ -1,0 +1,3 @@
+The first program has no errors, and puts 3 on screen.
+
+The second program has an error because x is not in scope after the times method has finished.
