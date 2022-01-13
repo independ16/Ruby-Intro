@@ -1,1 +1,9 @@
-puts('The weatherman said there is a '+rand(101).to_s+'% chance of rain,')
+p true.class          # => TrueClass
+p true.nil?           # => false
+p true.to_s           # => "true"
+p true.methods        # => list of methods you can call on the true objecp t
+
+p false.class         # => FalseClass
+p false.nil?          # => false
+p false.to_s          # => "false"
+p false.methods       # => list of methods you can call on the false object
