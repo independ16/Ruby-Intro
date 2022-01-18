@@ -1,0 +1,40 @@
+
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  first_number: "What's the first number?"
+  second_number: "What's the second number?"
+  valid_number: "Hmm... that doesn't look like a valid number"
+  valid_operator: "Must choose 1, 2, 3 or 4"
+  goodbye: "Thank you and goodbye!"
+  repeat?: "Do you want to perform another calculation (Y to calculate again)?"
+  calculating...:  " the two numbers... "
+  result: "The result is "
+  operator:
+      "What operation would you like to perform? \n
+           1) add \n
+           2) subtract \n
+           3) multiply  \n
+           4) divide  \n"
+  hi: "Hi "
+
+ru:
+  welcome: "Добро пожаловать в Калькулятор! Введите ваше имя:"
+  valid_name: "Убедитесь, что вы ввели допустимое имя."
+  first_number: "Какой первый номер?"
+  second_number: "Какой второй номер?"
+  valid_number: "Хм... это не похоже на правильный номер"
+  valid_operator: "Необходимо выбрать 1, 2, 3 или 4"
+  goodbye: "Спасибо и до свидания!"
+  repeat?: "Вы хотите выполнить другой расчет (Y для повторного расчета)?"
+  calculating...:  " два числа... "
+  result: "Результат "
+  operator:
+      "Какую операцию вы хотели бы выполнить? \n
+           1) добавлять \n
+           2) вычесть \n
+           3) умножать  \n
+           4) разделять  \n"
+  hi: "Привет "
+
+# ... rest of file omitted for brevity
